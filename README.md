@@ -1,4 +1,4 @@
-# Lab 01: Hosting a Static Website on Azure Blob Storage
+# Hosting a Static Website on Azure Blob Storage
 
 ## 🎥 Live Demonstration Video
 
